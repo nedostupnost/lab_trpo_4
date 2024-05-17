@@ -12,3 +12,6 @@
 <h1 align="center">Killing all living things</h1>
 <h1 align="center">She punished the sinful world</h1>
 <h1 align="center">Reviving the murderer</h1>
+
+
+я не хочу исправлять тот говнокод в мейне
