@@ -1,0 +1,9 @@
+*.[oa]
+*~
+*swp
+.bin/
+/TODO
+*.txt
+Dockerfile
+
+.vscode/
